@@ -6,3 +6,7 @@ Software to use Blynk for UNT Robotics
  
  
  ## Example
+
+### Resources
+
+https://www.blynk.cc/getting-started/
