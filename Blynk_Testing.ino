@@ -1,3 +1,6 @@
+//BLYNK app software for controlling four motors
+//Created by Juan Ruiz
+
 #define BLYNK_PRINT Serial
 #include <BlynkSimpleSerialBLE.h>
 #include <SoftwareSerial.h>
